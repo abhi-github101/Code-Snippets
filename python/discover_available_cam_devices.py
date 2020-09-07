@@ -14,7 +14,7 @@ def main():
         # get reference to cam device and check if its available
         video_capture = cv2.VideoCapture(device)
         if video_capture.isOpened() == True:
-            processes.append("camTest.py " + str(device))
+            processes.append("capture_cam_feed.py " + str(device))
         video_capture.release()
         cv2.destroyAllWindows()
     
