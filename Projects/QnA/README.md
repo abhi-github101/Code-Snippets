@@ -17,3 +17,7 @@ Technologies used:
 - HTML
 - CSS
 - Bootstrap
+
+### Preview of QnA
+
+[!Homepage](/Snapshots/1_Home.png)
