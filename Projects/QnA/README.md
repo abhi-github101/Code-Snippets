@@ -18,3 +18,4 @@ Technologies used:
 - CSS
 - Bootstrap
 ![HomePage](/Projects/QnA/Snapshots/1. Home Page.png)
+![GitHub Logo](/images/logo.png)
