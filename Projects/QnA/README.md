@@ -20,4 +20,4 @@ Technologies used:
 
 ### Preview of QnA
 
-[!Homepage](/Snapshots/1_Home.png)
+![Homepage](/Snapshots/1_Home.png)
