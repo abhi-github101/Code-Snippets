@@ -17,5 +17,6 @@ Technologies used:
 - HTML
 - CSS
 - Bootstrap
-![HomePage](/Code-Snippets/Projects/QnA/Snapshots/1. Home Page.png)
+
+![HomePage](/Snapshots/1.HomePage.png)
 
