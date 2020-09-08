@@ -18,6 +18,6 @@ Technologies used:
 - CSS
 - Bootstrap
 
-### Preview of QnA
+### Preview
 
 ![Homepage](/Projects/QnA/Snapshots/1_Home.png)
